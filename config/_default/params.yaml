@@ -30,12 +30,12 @@ address:
   country: P.R. China
   country_code: CN
 coordinates:
-  latitude: '23.05472764033421'
-  longitude: '113.41564385997903'
+  latitude: '23.05732'
+  longitude: '113.41014'
 directions: Enter Science and Technology Building and take the elevator to Office 501 on Level 5.
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday 17:00 to 18:00'
+  - 'Friday 09:00 to 10:00'
 appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
@@ -52,7 +52,7 @@ main_menu:
   show_language: false
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
@@ -63,26 +63,26 @@ address_format: en-us
 # Site features
 
 highlight: false
-math: false
+math: true
 diagram: false
-privacy_pack: false
+privacy_pack: true
 show_related:
   post: true
   project: true
   publication: true
   talk: true
-reading_time: true
+reading_time: false
 section_pager: false
-sharing: true
+sharing: false
 copyright_license:
-  enable: false
+  enable: true
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
