@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: 广东省代谢病中心  生物信息组
 subtitle: 生物信息组
-active: false
+active: true
 design:
   columns: "1"
   background:
