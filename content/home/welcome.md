@@ -3,7 +3,7 @@ widget: hero
 widget_id: head
 headless: true
 weight: 10
-title: 广东省代谢病研究中心  生物信息组
+title: "广东省代谢病研究中心  "
 subtitle: 生物信息组
 active: true
 design:
