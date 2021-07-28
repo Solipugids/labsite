@@ -6,33 +6,33 @@
 # Appearance
 
 theme: minimal
-day_night: false
+day_night: true
 font: native
-font_size: L
+font_size: S
 
 # SEO
 
 site_type: Organization
-local_business_type: ''
-org_name: ''
-description: My research group description.
+local_business_type: 'Academic'
+org_name: 'Bioinformatics Group, Guangdong Metabolic Disease Research Center'
+description: 广东省代谢病研究中心生物信息组
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: wangchao@gdpu.edu.cn
+phone: 86 130 4986 3653
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 280 Waihuan Road East
+  city: Guangzhou
+  region: Guangdong
+  postcode: '510006'
+  country: P.R. China
+  country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '23.05472764033421'
+  longitude: '113.41564385997903'
+directions: Enter Science and Technology Building and take the elevator to Office 501 on Level 5.
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
