@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 广东省代谢病研究中心生物信息组 # Website name
+title: Guangdong Metabolic Disease Research Center # Website name
 baseurl: 'https://mdrc.netlify.app/' # Website URL
 copyright: '© {2021} 广东省代谢病研究中心 [Guangdong Metabolic Disease Center]' # Footer text, e.g. '© {year} Me'
 
@@ -11,9 +11,9 @@ copyright: '© {2021} 广东省代谢病研究中心 [Guangdong Metabolic Diseas
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: zh
+defaultContentLanguage: en
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################
