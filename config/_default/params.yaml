@@ -15,7 +15,7 @@ font_size: S
 site_type: Organization
 local_business_type: 'Academic'
 org_name: 'Bioinformatics Group, Guangdong Metabolic Disease Research Center'
-description: 广东省代谢病研究中心生物信息组
+description: Guangdong
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -49,7 +49,7 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
