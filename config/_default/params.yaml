@@ -7,15 +7,15 @@
 
 theme: ocean
 day_night: true
-font: native
-font_size: S
+font: ''
+font_size: M
 
 # SEO
 
 site_type: Organization
 local_business_type: 'Academic'
 org_name: 'Bioinformatics Group, Guangdong Metabolic Disease Research Center'
-description: Guangdong
+description: Guangdong Metabolic Disease Research Center
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -47,9 +47,9 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align: l
   show_logo: true
-  show_language: true
+  show_language: false
   show_day_night: true
   show_search: true
   highlight_active_link: true
