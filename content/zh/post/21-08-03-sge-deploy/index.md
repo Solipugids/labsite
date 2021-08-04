@@ -33,6 +33,7 @@ HOSTNAME=master
 SELINUX=permissive
 ```
 重新启动登录节点服务器，`getenforce`查看修改生效。
+###### 计算节点ssh登录认证
 ###### 搭建NFS服务
 准备一个共享目录/share
 ```bash
