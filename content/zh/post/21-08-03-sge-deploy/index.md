@@ -1,6 +1,6 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: 并行计算节点的部署
+date: 2021-08-04
 image:
   focal_point: "top"
 ---
