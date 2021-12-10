@@ -82,8 +82,8 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
-  gravatar: true
-  shape: circle
+  gravatar: false
+  shape: square
 publications:
   date_format: January 2006
   citation_style: apa
