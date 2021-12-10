@@ -11,7 +11,7 @@ copyright: '© {2021} 广东省代谢病研究中心 [Guangdong Metabolic Diseas
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: cn
+defaultContentLanguage: zh
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: true
 removePathAccents: true
