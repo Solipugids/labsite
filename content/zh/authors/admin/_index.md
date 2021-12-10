@@ -11,7 +11,7 @@ role: Professor of Bioinformatics
 # Organizations/Affiliations
 organizations:
 - name: Guangdong Pharmaceutical University
-  url: "wangchao.netlify.app"
+  url: "www.gdpu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include system biology, quantitative biology, modeling, and transcritpion regulation.
