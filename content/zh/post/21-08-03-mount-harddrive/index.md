@@ -16,8 +16,8 @@ sudo fdisk -l
 ```
 创建分区，创建之后磁盘信息就显示出来了。
 ```bash
-sudo parted -s ／dev／sdb mklabel gpt
-sudo parted mkpart primary 2048s 100%
+sudo parted -s /dev/sdb mklabel gpt
+sudo parted -s /dev/sdb mkpart primary 2048s 100%
 ```
 格式化
 ```bash
