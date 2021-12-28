@@ -1,5 +1,5 @@
 ---
-title: 格式化和挂载大容量磁盘
+title: NCBI批量下载SRA
 date: 2021-08-03
 image:
   focal_point: "top"
