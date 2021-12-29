@@ -93,4 +93,11 @@ install_github("xia-lab/MetaboAnalystR", build = TRUE, build_vignettes = TRUE, b
 
 ### 备注
 
-`SSPA`，`metaX`两个失效包的源代码已经保存在本地，以防丢失。`git clone`命令有时候会报错，因为`github`的DNS在国内被污染了。
+1. `SSPA`，`metaX`两个失效包的源代码已经保存在本地，以防丢失。`git clone`命令有时候会报错，因为`github`的DNS在国内被污染了。可以修改系统的host文件，直接把github的地址对应到直接的IP地址上。
+
+2. 直接克隆下来的`SSPA`安装会显示一个报错：
+    Error in .install_package_code_files(".", instdir) : 
+    duplicated files in 'Collate' field:
+      zzz.R
+    ERROR: unable to collate and parse R files for package ‘SSPA’
+  问题在于`SSPA`目录下`DESCRIPTION`文件中的`Collate`行有两个`zzz.R`文件，删除一个即可。
