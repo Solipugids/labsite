@@ -1,5 +1,5 @@
 ---
-title: 批量下载
+title: 批量下载SRA数据
 date: 2021-08-03
 image:
   focal_point: "top"
