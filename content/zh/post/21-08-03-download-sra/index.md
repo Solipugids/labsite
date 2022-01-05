@@ -26,9 +26,16 @@ nohup prefetch --option-file SraAccList > log 2>&1 &
 ```
 ###### 提升下载速度
 
+IBM提供的`Aspera Connect`工具可以达到~10Mb/s的下载速度。在NCBI的[Download](https://www.ncbi.nlm.nih.gov/home/download/)版块上直接有`Aspera`的入口，进去后直接跳转到IBM官网下载。
+
+可以把`Aspera Connect`压缩包直接扔到服务器用户目录下，解压后就是一个`sh`文件，执行即可。
 ```bash
-wget https://d3gcli72yxqn2z.cloudfront.net/connect_latest/v4/bin/ibm-aspera-connect-3.11.2.63-linux-g2.12-64.tar.gz
-sh ibm-aspera-connect-3.11.2.63-linux-g2.12-64.sh
+sh ibm-aspera-connect_4.1.1.73_linux.sh
 ```
+运行后直接在用户目录下生成一个`.aspera/connect/`的隐藏目录，例如下载`NCBI`上`NR`库`nr.gz`的调用方法就是
+```bash
+~/.aspera/connect/bin/ascp -i ~/.aspera/connect/etc/asperaweb_id_dsa.openssh --overwrite=diff -QTr -l6000m anonftp@ftp.ncbi.nlm.nih.gov:/blast/db/FASTA/nr.gz .
+```
+测试下载速度基本上可以接近`10Mb/s`左右。
 根据Aspera Connect的官方说明，仅支持每个用户自己下载，不能放在系统上。所以只能安装在自己的用户目录下。
     The Connect installation script must not be run by user root. Connect on Linux may only be installed per user, as opposed to system wide. To avoid errors, install Connect per user, excluding user root.
