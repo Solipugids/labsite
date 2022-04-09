@@ -9,6 +9,7 @@ so many books, so little time.
 #### R
 `R for Data Science` R4DS，基本上算是开源社区的作品，官网也在netlify上部署的
 [官网](https://r4ds.had.co.nz/) 
+
 `Advanced R` 跟上面一个系列，只有网站。
 [官网](https://adv-r.hadley.nz/index.html) 
 
@@ -20,6 +21,7 @@ so many books, so little time.
 
 #### Statistical Learning
 `The Elements of Statistical Learning: Data Mining, Inference, and Prediction.` 统计学习基础（简称ESL，目前是第二版，这本是数据分析方法的经典教材） [官网](https://www.ebi.ac.uk/metagenomics/) [英文版PDF](static/uploads/ESLII.pdf) 注：官网提供了书内代码和数据
+{{% staticref "uploads/ESLII.pdf" %}}英文版PDF{{% /staticref %}}
 
 `An Introduction to Statistical Learning` 这本书的特点是跟R语言的实现一起讲的，很实用[官网](https://www.statlearning.com/) [英文版PDF](static/uploads/ISLRv2.pdf)
 
