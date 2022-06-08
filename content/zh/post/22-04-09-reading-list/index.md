@@ -16,24 +16,26 @@ R4DS，基本上算是开源社区集体贡献的成果。
 [官网](https://adv-r.hadley.nz/index.html) 
 
 
-
 #### Python
+`Python Crash Course`
+PCC，基于项目的python教程，对python方法讲的很透彻。
+[官网](https://ehmatthes.github.io/pcc/) /{{% staticref "uploads/pcc-2016.pdf" %}}英文版PDF{{% /staticref %}}
 
 #### Genomics
 
 #### Statistical Learning
-`The Elements of Statistical Learning: Data Mining, Inference, and Prediction.`   
+`The Elements of Statistical Learning: Data Mining, Inference, and Prediction.`
 统计学习基础（简称ESL，目前是第二版，这本是数据分析方法的经典教材）  
-[官网](https://www.ebi.ac.uk/metagenomics/) ／{{% staticref "uploads/ESLII.pdf" %}}英文版PDF{{% /staticref %}}   
+[官网](https://www.ebi.ac.uk/metagenomics/) ／{{% staticref "uploads/ESLII.pdf" %}}英文版PDF{{% /staticref %}}
 注：官网提供了书内代码和数据
 
 
-`An Introduction to Statistical Learning`   
+`An Introduction to Statistical Learning`
 这本书的特点是跟R语言的实现一起讲的，很实用  
 [官网](https://www.statlearning.com/) ／{{% staticref "uploads/ISLRv2.pdf" %}}英文版PDF{{% /staticref %}}
 
 #### Linux/vim/sed/awk
-`鸟哥的Linux私房菜` 一个台湾人写的Linux入门，都是很基础的内容，可以从第四章开始看   
+`鸟哥的Linux私房菜` 一个台湾人写的Linux入门，都是很基础的内容，可以从第四章开始看
 [官网](http://cn.linux.vbird.org/)／ [基础学习篇第四版PDF](static/uploads/vbird-linux-basic-4e.pdf) 
 
 #### git/Github
