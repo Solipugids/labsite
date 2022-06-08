@@ -18,8 +18,11 @@ R4DS，基本上算是开源社区集体贡献的成果。
 
 #### Python
 `Python Crash Course`
-PCC，基于项目的python教程，对python方法讲的很透彻。
+PCC，针对所有层次的python入门教程，带有项目教学。
 [官网](https://ehmatthes.github.io/pcc/) /{{% staticref "uploads/pcc-2016.pdf" %}}英文版PDF{{% /staticref %}}
+
+`python3-cookbook`
+[中文版](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)/[Github](https://github.com/yidao620c/python3-cookbook)/{{% staticref "uploads/python3-cookbook.pdf" %}}中文版PDF{{% /staticref %}}
 
 #### Genomics
 
