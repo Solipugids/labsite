@@ -41,7 +41,8 @@ python使用手册
 [官网](https://www.statlearning.com/) ／{{% staticref "uploads/ISLRv2.pdf" %}}英文版PDF{{% /staticref %}}
 
 #### Linux/vim/sed/awk   
-`鸟哥的Linux私房菜` 一个台湾人写的Linux入门，都是很基础的内容，可以从第四章开始看   
+`鸟哥的Linux私房菜`   
+一个台湾人写的Linux入门，都是很基础的内容，可以从第四章开始看   
 [官网](http://cn.linux.vbird.org/)／ [基础学习篇第四版PDF](static/uploads/vbird-linux-basic-4e.pdf)   
 
 #### git/Github
