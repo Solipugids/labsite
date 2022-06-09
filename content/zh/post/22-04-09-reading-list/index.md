@@ -26,7 +26,7 @@ python使用手册
 [中文版](https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html)/[Github](https://github.com/yidao620c/python3-cookbook)/{{% staticref "uploads/python3-cookbook.pdf" %}}中文版PDF{{% /staticref %}}
 
 #### Biology
-`How the immune system works`
+`How the immune system works`   
 免疫学基础科普书
 
 #### Statistical Learning
