@@ -17,7 +17,7 @@ image:
 
 `Windows`系统下命令行的使用方法根据各个系统版本略有不同，最直接的办法是在`Windows`商店安装`PowerShell`或者`Windows Terminal`。以用户名为`thor`为例，打开后运行如下命令：
 ```bash
-ssh -l thor 2.tcp.ngrok.io -p 10178
+ssh -l thor 0.tcp.ngrok.io -p 18703
 ```
 
 回车以后会提示
@@ -25,7 +25,7 @@ ssh -l thor 2.tcp.ngrok.io -p 10178
 #### 如何登陆Rstudio
 很简单，浏览器内输入以下网页链接：
 ```bash
-http://917b-120-85-130-202.ngrok.io 
+https://e032-120-85-130-202.ngrok.io 
 ```
 该系统的账号和密码，跟服务器登陆的账号密码一致。
 
