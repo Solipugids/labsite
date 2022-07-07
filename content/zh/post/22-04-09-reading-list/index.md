@@ -29,8 +29,10 @@ python使用手册
 `How the immune system works`   
 免疫学基础科普书
 
-`R for Mass Spectrometry`
-质谱数据分析技术
+`R for Mass Spectrometry`    
+质谱数据分析技术   
+[官网](https://rformassspectrometry.github.io/docs/index.html)
+
 
 #### Statistical Learning
 `The Elements of Statistical Learning: Data Mining, Inference, and Prediction.`   
