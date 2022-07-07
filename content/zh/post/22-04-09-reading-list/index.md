@@ -29,16 +29,22 @@ python使用手册
 `How the immune system works`   
 免疫学基础科普书
 
+`R for Mass Spectrometry`
+质谱数据分析技术
+
 #### Statistical Learning
 `The Elements of Statistical Learning: Data Mining, Inference, and Prediction.`   
 统计学习基础（简称ESL，目前是第二版，这本是数据分析方法的经典教材)   
 [官网](https://www.ebi.ac.uk/metagenomics/) ／{{% staticref "uploads/ESLII.pdf" %}}英文版PDF{{% /staticref %}}   
 注：官网提供了书内代码和数据
 
-
 `An Introduction to Statistical Learning`   
 这本书的特点是跟R语言的实现一起讲的，很实用    
 [官网](https://www.statlearning.com/) ／{{% staticref "uploads/ISLRv2.pdf" %}}英文版PDF{{% /staticref %}}
+
+`Modern Statistics for Modern Biology`   
+现代生物统计学，包含R代码    
+[官网](https://web.stanford.edu/class/bios221/book/index.html)
 
 #### Linux/vim/sed/awk   
 `鸟哥的Linux私房菜`   
