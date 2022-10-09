@@ -24,8 +24,8 @@ ssh -l thor 6.tcp.ngrok.io -p 17141
 
 #### 如何登陆Rstudio
 很简单，浏览器内输入以下网页链接：
-```bash
-[https://ea01-120-85-130-204.ngrok.io](https://ea01-120-85-130-204.ngrok.io)
+```html
+https://ea01-120-85-130-204.ngrok.io
 ```
 该系统的账号和密码，跟服务器登陆的账号密码一致。
 
