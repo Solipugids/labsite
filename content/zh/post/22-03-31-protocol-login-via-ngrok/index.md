@@ -1,5 +1,6 @@
 ---
 title: 远程登陆服务器及连接Rstudio操作指南
+date: 2022-03-31
 image:
   focal_point: "top"
 ---

@@ -1,5 +1,6 @@
 ---
 title: 在服务器上安装不同版本的R和配置Rstudio server
+date: 2021-12-27
 image:
   focal_point: "top"
 ---

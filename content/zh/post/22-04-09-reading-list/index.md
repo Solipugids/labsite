@@ -1,5 +1,6 @@
 ---
-title: 知识库[Knowledge Bank]  
+title: 知识库[Knowledge Bank]
+date: 2022-04-09
 image:
   focal_point: "top"
 ---
