@@ -34,6 +34,10 @@ python使用手册
 质谱数据分析技术   
 [官网](https://rformassspectrometry.github.io/docs/index.html)
 
+#### Meta-analysis
+`Doing Meta-Analysis in R: A Hands-on Guide`   
+使用R软件包`metaforest`进行荟萃分析
+[官网](https://cjvanlissa.github.io/Doing-Meta-Analysis-in-R/)
 
 #### Statistical Learning
 `The Elements of Statistical Learning: Data Mining, Inference, and Prediction.`   
