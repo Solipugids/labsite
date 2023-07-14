@@ -28,7 +28,8 @@ python使用手册
 
 #### Biology
 `How the immune system works`   
-免疫学基础科普书
+免疫学基础科普书（Lauren M. Sompayrac）   
+{{% staticref "uploads/How_the_Immune_System_Works.pdf" %}}英文版PDF{{% /staticref %}}   
 
 `R for Mass Spectrometry`    
 质谱数据分析技术   
@@ -36,7 +37,7 @@ python使用手册
 
 #### Meta-analysis
 `Doing Meta-Analysis in R: A Hands-on Guide`   
-使用R软件包`metaforest`进行荟萃分析
+使用R软件包`metaforest`进行荟萃分析   
 [官网](https://cjvanlissa.github.io/Doing-Meta-Analysis-in-R/)
 
 #### Statistical Learning
@@ -44,6 +45,11 @@ python使用手册
 统计学习基础（简称ESL，目前是第二版，这本是数据分析方法的经典教材)   
 [官网](https://www.ebi.ac.uk/metagenomics/) ／{{% staticref "uploads/ESLII.pdf" %}}英文版PDF{{% /staticref %}}   
 注：官网提供了书内代码和数据
+
+`Causal Inference: The Mixtape`   
+因果推断的实践指南和前沿速览  
+[官网](https://mixtape.scunning.com/)    
+注：偏社会科学相关
 
 `An Introduction to Statistical Learning`   
 这本书的特点是跟R语言的实现一起讲的，很实用    
